@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**szoboszlaianna/szoboszlaianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Anna**.
 
-Here are some ideas to get you started:
+💻 I'm a **Full-Stack Developer at Novo Nordisk**, with a growing interest in **AI and developer tools**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm currently building an **MCP server that connects Claude Desktop with Strava**, exploring how I can use MCP to build myself a personal running coach!
+
+### What I'm working on
+
+* 🔭 Building a **Strava integration for Claude Desktop**
+* ⚙️ Experimenting with **Model Context Protocol (MCP) servers**
+* 🤖 Exploring ways to build practical AI-powered developer tools
+
+### Currently learning
+
+* 🌱 MCP architecture and tool design
+* 🧠 Building useful AI-powered developer tools
+
+## Fun fact
+
+⚡ I enjoy building small tools and experiments that make everyday workflows smarter.
