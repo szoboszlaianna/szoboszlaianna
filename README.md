@@ -8,7 +8,7 @@ I'm **Anna**.
 
 ### What I'm working on
 
-* 🔭 Building a **Strava integration for Claude Desktop**
+* 🔭 Building a **[Strava integration for Claude Desktop](https://github.com/szoboszlaianna/strava_connector)**
 * ⚙️ Experimenting with **Model Context Protocol (MCP) servers**
 * 🤖 Exploring ways to build practical **AI-powered developer tools**
 
