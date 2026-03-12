@@ -6,23 +6,6 @@ I'm **Anna**.
 
 🚀 I'm currently building an **MCP server that connects Claude Desktop with Strava**, exploring how MCP can power personal tools like an AI running coach.
 
-### 🛠️ Tech Stack
-
-**Languages**
-JavaScript · TypeScript · Python · SQL
-
-**Frontend**
-React · Next.js · HTML · CSS
-
-**Backend**
-Node.js · REST APIs · GraphQL
-
-**AI & Tooling**
-Model Context Protocol (MCP) · LLM integrations · AI tooling
-
-**Other**
-Git · Docker · Cloud services · API integrations
-
 ### What I'm working on
 
 * 🔭 Building a **Strava integration for Claude Desktop**
